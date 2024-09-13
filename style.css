@@ -33,6 +33,10 @@ body > header {
     display: flex;
 }
 
+#musicgenres {
+    display: flex;
+}
+
 #nav-ul > li {
     padding: 8px;
     margin: 16px;
