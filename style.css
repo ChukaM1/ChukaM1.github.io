@@ -28,6 +28,10 @@ body > header {
     display: flex;
 }
 
+#latestreleases {
+    display: flex;
+}
+
 #nav-ul > li {
     padding: 8px;
     margin: 16px;
