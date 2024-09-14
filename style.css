@@ -31,10 +31,16 @@ body > header {
 
 #latestreleases {
     display: flex;
+    padding: 12px;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #musicgenres {
     display: flex;
+    padding: 12px;
+    align-items: center;
+    justify-content: space-around;
 }
 
 #nav-ul > li {
