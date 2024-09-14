@@ -31,14 +31,14 @@ body > header {
 
 #latestreleases {
     display: flex;
-    padding: 24px;
+    margin-bottom: 40px;
     align-items: center;
     justify-content: space-around;
 }
 
 #musicgenres {
     display: flex;
-    padding: 24px;
+    margin-bottom: 40px;
     align-items: center;
     justify-content: space-around;
 }
